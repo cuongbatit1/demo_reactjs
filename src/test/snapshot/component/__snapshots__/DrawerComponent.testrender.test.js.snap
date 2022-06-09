@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test renders DrawerComponent snapshot 1`] = `<DocumentFragment />`;
+
+exports[`test renders DrawerComponent snapshot with open true 1`] = `<DocumentFragment />`;

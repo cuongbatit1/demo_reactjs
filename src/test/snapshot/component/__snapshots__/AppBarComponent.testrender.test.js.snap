@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test renders AppBarComponent snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-19z1ozs-MuiPaper-root-MuiAppBar-root"
+  />
+</DocumentFragment>
+`;
+
+exports[`test renders AppBarComponent snapshot with open true 1`] = `
+<DocumentFragment>
+  <header
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1191obr-MuiPaper-root-MuiAppBar-root"
+  />
+</DocumentFragment>
+`;

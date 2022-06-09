@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test renders PageNotFound snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="text-align: center;"
+  >
+    <h1>
+      Page not found
+    </h1>
+    <div
+      style="font-size: 72px; font-weight: bold;"
+    >
+      404
+    </div>
+    <img
+      alt=""
+      src="/static/images/Black_Hole_Orange.png"
+    />
+  </div>
+</DocumentFragment>
+`;

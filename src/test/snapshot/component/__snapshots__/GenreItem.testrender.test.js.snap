@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test renders GenreItem snapshot with index 0 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-ox2vj5-MuiPaper-root-MuiCard-root"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root css-gpgb4u-MuiButtonBase-root-MuiCardActionArea-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="MuiCardContent-root css-1i9wt8r-MuiCardContent-root"
+      >
+        <div
+          class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter MuiTypography-gutterBottom css-8uu8ll-MuiTypography-root"
+        >
+          A
+        </div>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test renders GenreItem snapshot with index 1 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1r5tgcg-MuiPaper-root-MuiCard-root"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root css-gpgb4u-MuiButtonBase-root-MuiCardActionArea-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="MuiCardContent-root css-1i9wt8r-MuiCardContent-root"
+      >
+        <div
+          class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter MuiTypography-gutterBottom css-8uu8ll-MuiTypography-root"
+        >
+          AA
+        </div>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test renders GenreItem snapshot with index 2 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-k63y40-MuiPaper-root-MuiCard-root"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root css-gpgb4u-MuiButtonBase-root-MuiCardActionArea-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="MuiCardContent-root css-1i9wt8r-MuiCardContent-root"
+      >
+        <div
+          class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter MuiTypography-gutterBottom css-8uu8ll-MuiTypography-root"
+        >
+          AAA
+        </div>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
