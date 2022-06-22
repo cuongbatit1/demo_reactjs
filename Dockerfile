@@ -1,5 +1,5 @@
 FROM node:alpine
-WORKDIR /public/dist/
+WORKDIR /public/dist
 COPY package.json ./
 COPY ./ ./
 RUN npm i --legacy-peer-deps
