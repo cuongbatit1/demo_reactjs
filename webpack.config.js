@@ -81,8 +81,6 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     static: __dirname + "/public/",
-    compress: true,
-    inline: true,
     port: server_port,
     host: server_host,
   },
