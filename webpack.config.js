@@ -2,6 +2,10 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require("webpack");
 
+// var server_port = process.env.YOUR_PORT || process.env.PORT || 5000;
+// var server_host = process.env.YOUR_HOST || "0.0.0.0";
+var server_port = 5000;
+var server_host = "0.0.0.0";
 module.exports = {
   entry: path.join(__dirname, "src", "index.js"),
 
@@ -77,6 +81,10 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     static: __dirname + "/public/",
+    compress: true,
+    inline: true,
+    port: server_port,
+    host: server_host,
   },
   performance: {
     hints: false,
