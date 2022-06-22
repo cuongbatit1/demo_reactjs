@@ -108,3 +108,5 @@ npm run test -- src/test/snapshot/screen/LoadingModalDialog.render.test.js --cov
 npm run test -- src/test/ListUserScreenNew.test.js --coverage --watchAll=false
 
 npm run test -- src/test/redux/action/LoginAction.test.js --coverage --watchAll=false
+
+--legacy-peer-deps

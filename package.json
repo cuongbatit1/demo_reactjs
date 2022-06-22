@@ -45,7 +45,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start --open --hot",
+    "start": "webpack-dev-server --mode production && node public/dist/bundle.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "dev": "webpack serve --mode development --open --hot",
